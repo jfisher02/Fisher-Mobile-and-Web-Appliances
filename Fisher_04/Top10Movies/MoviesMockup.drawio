@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" modified="2024-02-06T23:40:58.766Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="OU-J4jaxY8uWq0gbMIH2" version="23.0.2" type="device">
+  <diagram name="Page-1" id="yKk7dBhFb-qpdn1BdxmS">
+    <mxGraphModel dx="2074" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QW4ftRcxr8JnsHUXyzhp-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="150" width="430" height="860" as="geometry" />
+        </mxCell>
+        <mxCell id="QW4ftRcxr8JnsHUXyzhp-2" value="Movie" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="320" width="280" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="QW4ftRcxr8JnsHUXyzhp-3" value="Base Screen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="88" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QW4ftRcxr8JnsHUXyzhp-4" value="Rating" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="415" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QW4ftRcxr8JnsHUXyzhp-5" value="Scroll View" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="970" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QW4ftRcxr8JnsHUXyzhp-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="610" width="290" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="QW4ftRcxr8JnsHUXyzhp-7" value="Rating" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="415" y="565" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QW4ftRcxr8JnsHUXyzhp-8" value="Jaden&#39;s Random Top 10 Movie List" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="208" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QW4ftRcxr8JnsHUXyzhp-9" value="Movie" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="415" y="700" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
